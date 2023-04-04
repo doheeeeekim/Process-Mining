@@ -1,4 +1,4 @@
-# Process-Mining
+# Processmining Study
 프로세스마이닝 스터디 내용 정리(전화기 수리 프로세스 데이터 사용)
 ## 1. Process-Mining file 불러오기, 목록도출
 1) xes 파일 불러오기
